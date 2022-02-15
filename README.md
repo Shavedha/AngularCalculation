@@ -311,8 +311,8 @@ export class AppModule { }
 ```
 
 ## OUTPUT:
-![output](./befval.png)
-![output](./afval.png)
+![befval](https://user-images.githubusercontent.com/93427376/154124759-fbda919f-7b11-4a8e-beb4-57e3d48b97ba.png)
+![afval](https://user-images.githubusercontent.com/93427376/154124784-25bf19e9-8b08-427e-b430-b1da75c90e82.png)
 
 
 
